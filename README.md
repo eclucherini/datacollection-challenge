@@ -1,1 +1,3 @@
 # datacollection-challenge
+
+My biggest challenge with web scraping is figuring out which elements need to be pulled, specifically which classes and/or ids that will pull the correct information. For example, in part 1 of this challenge that required me to extract all text elements, it took me a while to figure out that I needed to set the class to "list_text", as I kepot trying to pull "col-md-4" and "col-md-8" before eventually getting to "list-text". Other than this issue, I was able to use a lot of the code we learned in class in this challenge, without having to spend much time on Stack Overflow.
